@@ -14,4 +14,6 @@ Download this repository via
 git clone https://github.com/gnpaneendra/RAWS_2026_TWIN.git
 ```
 
+Download the data file from: https://drive.google.com/file/d/1oygiJbyg1axjsBY8ufRK9LeMYPOccx8L/view?usp=sharing
+
 Contact details: paneendra.res@gmail.com
