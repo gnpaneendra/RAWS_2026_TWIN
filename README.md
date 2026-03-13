@@ -30,7 +30,7 @@ cd 2025_10_21
 ```terminal
 pwd
 ```
-Copy the output and paste it in the first line of 4th cell of the notebooks (open the notebook alongside for better understanding)
+Copy the output
 ```terminal
 sudo apt update
 ```
@@ -52,6 +52,7 @@ python3 -m pip install numpy pandas matplotlib datetime tqdm notebook
 ```terminal
 python3 -m notebook
 ```
+Open the note book and paste output of pwd here in the first line of 4th cell of the notebooks (open the notebook alongside for better understanding)
 
 Disclaimer: There are few lines of code which run on linux, but they can be commented out and it will not affect the data processing
 
