@@ -25,6 +25,13 @@ Download the data file from: https://drive.google.com/file/d/1oygiJbyg1axjsBY8uf
 unzip 2025_10_21.zip -d 2025_10_21 # Unzips data data file
 ```
 ```terminal
+cd 2025_10_21
+```
+```terminal
+pwd
+```
+Copy the output and paste it in the first line of 4th cell of the notebooks (open the notebook alongside for better understanding)
+```terminal
 sudo apt update
 ```
 ```terminal
